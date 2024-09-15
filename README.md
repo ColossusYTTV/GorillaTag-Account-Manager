@@ -5,6 +5,7 @@
 
 # Getting Started
 Import files of any format with multiple delimiters (":", "|", " "), or export your database to any file type with the prefix USER:PASS:STATUS.
+
 ![Full Screen Shot](images/fullscreenshot.png)
 
 ## Features
@@ -20,6 +21,7 @@ Import files of any format with multiple delimiters (":", "|", " "), or export y
 + Username
 + Password
 + Status: Unbanned / Banned (with time left) / UnChecked
+
 ![Edit Account Screen Shot](images/editaccount.png)
 
 # Discord / Help
