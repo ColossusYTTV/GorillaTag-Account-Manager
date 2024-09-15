@@ -1,0 +1,11 @@
+C:\Users\XM\source\repos\GtagAccountManager\GtagAccountManager\bin\Release\GtagAccountManager.exe.config
+C:\Users\XM\source\repos\GtagAccountManager\GtagAccountManager\bin\Release\GtagAccountManager.exe
+C:\Users\XM\source\repos\GtagAccountManager\GtagAccountManager\bin\Release\GtagAccountManager.pdb
+C:\Users\XM\source\repos\GtagAccountManager\GtagAccountManager\obj\Release\GtagAccountManager.csproj.AssemblyReference.cache
+C:\Users\XM\source\repos\GtagAccountManager\GtagAccountManager\obj\Release\GtagAccountManager.Properties.Resources.resources
+C:\Users\XM\source\repos\GtagAccountManager\GtagAccountManager\obj\Release\GtagAccountManager.csproj.GenerateResource.cache
+C:\Users\XM\source\repos\GtagAccountManager\GtagAccountManager\obj\Release\GtagAccountManager.csproj.CoreCompileInputs.cache
+C:\Users\XM\source\repos\GtagAccountManager\GtagAccountManager\obj\Release\GtagAccountManager.exe
+C:\Users\XM\source\repos\GtagAccountManager\GtagAccountManager\obj\Release\GtagAccountManager.pdb
+C:\Users\XM\source\repos\GtagAccountManager\GtagAccountManager\obj\Release\GtagAccountManager.AddAccount.resources
+C:\Users\XM\source\repos\GtagAccountManager\GtagAccountManager\obj\Release\GtagAccountManager.Main.resources

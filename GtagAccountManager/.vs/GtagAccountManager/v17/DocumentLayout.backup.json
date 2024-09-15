@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GtagAccountManager||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}|GtagAccountManager\\GtagAccountManager.csproj|C:\\Users\\XM\\source\\repos\\GtagAccountManager\\gtagaccountmanager\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}|GtagAccountManager\\GtagAccountManager.csproj|solutionrelative:gtagaccountmanager\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}|GtagAccountManager\\GtagAccountManager.csproj|C:\\Users\\XM\\source\\repos\\GtagAccountManager\\gtagaccountmanager\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}|GtagAccountManager\\GtagAccountManager.csproj|solutionrelative:gtagaccountmanager\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}|GtagAccountManager\\GtagAccountManager.csproj|C:\\Users\\XM\\source\\repos\\GtagAccountManager\\gtagaccountmanager\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}|GtagAccountManager\\GtagAccountManager.csproj|solutionrelative:gtagaccountmanager\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}|GtagAccountManager\\GtagAccountManager.csproj|c:\\users\\xm\\source\\repos\\gtagaccountmanager\\gtagaccountmanager\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}|GtagAccountManager\\GtagAccountManager.csproj|solutionrelative:gtagaccountmanager\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}|GtagAccountManager\\GtagAccountManager.csproj|c:\\users\\xm\\source\\repos\\gtagaccountmanager\\gtagaccountmanager\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}|GtagAccountManager\\GtagAccountManager.csproj|solutionrelative:gtagaccountmanager\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}|GtagAccountManager\\GtagAccountManager.csproj|C:\\Users\\XM\\source\\repos\\GtagAccountManager\\gtagaccountmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}|GtagAccountManager\\GtagAccountManager.csproj|solutionrelative:gtagaccountmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}|GtagAccountManager\\GtagAccountManager.csproj|c:\\users\\xm\\source\\repos\\gtagaccountmanager\\gtagaccountmanager\\addaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}|GtagAccountManager\\GtagAccountManager.csproj|solutionrelative:gtagaccountmanager\\addaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}|GtagAccountManager\\GtagAccountManager.csproj|c:\\users\\xm\\source\\repos\\gtagaccountmanager\\gtagaccountmanager\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}|GtagAccountManager\\GtagAccountManager.csproj|solutionrelative:gtagaccountmanager\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}|GtagAccountManager\\GtagAccountManager.csproj|c:\\users\\xm\\source\\repos\\gtagaccountmanager\\gtagaccountmanager\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GtagAccountManager",
+              "DocumentMoniker": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\GtagAccountManager\\GtagAccountManager.csproj",
+              "RelativeDocumentMoniker": "GtagAccountManager\\GtagAccountManager.csproj",
+              "ToolTip": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\GtagAccountManager\\GtagAccountManager.csproj*",
+              "RelativeToolTip": "GtagAccountManager\\GtagAccountManager.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-15T07:04:16.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\GtagAccountManager\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "GtagAccountManager\\Main.Designer.cs",
+              "ToolTip": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\GtagAccountManager\\Main.Designer.cs",
+              "RelativeToolTip": "GtagAccountManager\\Main.Designer.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAIAwwLAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:22:42.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddAccount.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\GtagAccountManager\\AddAccount.Designer.cs",
+              "RelativeDocumentMoniker": "GtagAccountManager\\AddAccount.Designer.cs",
+              "ToolTip": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\GtagAccountManager\\AddAccount.Designer.cs",
+              "RelativeToolTip": "GtagAccountManager\\AddAccount.Designer.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAIAwwEgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:46:38.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prompt.cs",
+              "DocumentMoniker": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\GtagAccountManager\\Prompt.cs",
+              "RelativeDocumentMoniker": "GtagAccountManager\\Prompt.cs",
+              "ToolTip": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\GtagAccountManager\\Prompt.cs",
+              "RelativeToolTip": "GtagAccountManager\\Prompt.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:41:26.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\GtagAccountManager\\Main.cs",
+              "RelativeDocumentMoniker": "GtagAccountManager\\Main.cs",
+              "ToolTip": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\GtagAccountManager\\Main.cs [Design]",
+              "RelativeToolTip": "GtagAccountManager\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:05:56.081Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddAccount.cs",
+              "DocumentMoniker": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\GtagAccountManager\\AddAccount.cs",
+              "RelativeDocumentMoniker": "GtagAccountManager\\AddAccount.cs",
+              "ToolTip": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\GtagAccountManager\\AddAccount.cs",
+              "RelativeToolTip": "GtagAccountManager\\AddAccount.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:20:47.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\GtagAccountManager\\AddAccount.cs",
+              "RelativeDocumentMoniker": "GtagAccountManager\\AddAccount.cs",
+              "ToolTip": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\GtagAccountManager\\AddAccount.cs [Design]",
+              "RelativeToolTip": "GtagAccountManager\\AddAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:15:07.436Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\GtagAccountManager\\Program.cs",
+              "RelativeDocumentMoniker": "GtagAccountManager\\Program.cs",
+              "ToolTip": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\GtagAccountManager\\Program.cs",
+              "RelativeToolTip": "GtagAccountManager\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:35:08.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\GtagAccountManager\\Main.cs",
+              "RelativeDocumentMoniker": "GtagAccountManager\\Main.cs",
+              "ToolTip": "C:\\Users\\XM\\source\\repos\\GtagAccountManager\\GtagAccountManager\\Main.cs",
+              "RelativeToolTip": "GtagAccountManager\\Main.cs",
+              "ViewState": "AgIAAI4BAAAAAAAAAAAswJwBAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:34:11.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

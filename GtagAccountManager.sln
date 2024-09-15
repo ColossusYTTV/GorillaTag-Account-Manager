@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GtagAccountManager", "GtagAccountManager\GtagAccountManager.csproj", "{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE2DE37-3D57-4CA2-8BA7-8644815B073C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C60993E7-B72B-4780-A1BB-A4C92B414CA7}
+	EndGlobalSection
+EndGlobal
